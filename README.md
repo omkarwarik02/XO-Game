@@ -35,10 +35,12 @@ The game allows two players to play turn by turn in a 3x3 grid, and checks for a
 
 ## 🚀 Getting Started
 
+APP URL - https://xo-game-git-main-omkarwarik02s-projects.vercel.app
+
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/xo-game.git
 cd xo-game
 
-## APP URl - https://xo-game-git-main-omkarwarik02s-projects.vercel.app
+
